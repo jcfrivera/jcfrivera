@@ -1,4 +1,9 @@
 ## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/127009623?v=4">
+ <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/127009623?v=4">
+ <img alt="Julius" src="https://avatars.githubusercontent.com/u/127009623?v=4">
+</picture>
 
 <!--
 **jcfrivera/jcfrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
