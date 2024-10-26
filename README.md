@@ -6,3 +6,12 @@
 ## About me
 <br>I'm Julius and I just started building my profile in Github.
 
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1| Java          |
+|     2| Angular       |
+|     3| PostgreSQL    |
+|     4| NodeJS        |
+|     5| SpringBoot    |
+|     6| Agile Dev     |
