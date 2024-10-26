@@ -3,9 +3,17 @@
  <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/127009623?s=400&u=efb5e36a422f1e71bcf909fa04ca463c37f4b45d&v=4">
  <img alt="Julius's Profile Picture" src="https://avatars.githubusercontent.com/u/127009623?s=400&u=efb5e36a422f1e71bcf909fa04ca463c37f4b45d&v=4">
 </picture>
-## About me
-<br>I'm Julius and I just started building my profile in Github.
+<details open>
+<summary>
+About me
+</summary>
+I'm Julius and I just started building my profile here in Github.
 
+</details>
+
+
+<details>
+<summary>My Skills</summary>
 
 | Rank | Skills        |
 |-----:|---------------|
@@ -15,3 +23,7 @@
 |     4| NodeJS        |
 |     5| SpringBoot    |
 |     6| Agile Dev     |
+
+
+</details>
+
