@@ -7,7 +7,7 @@
 <br>I'm Julius and I just started building my profile in Github.
 
 
-| Rank | THING-TO-RANK |
+| Rank | Skills        |
 |-----:|---------------|
 |     1| Java          |
 |     2| Angular       |
